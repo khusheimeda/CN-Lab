@@ -1,0 +1,125 @@
+GET / HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Authorization: Basic a2h1c2hlaTpraHVzaGVp
+
+HTTP/1.1 200 OK
+Date: Sat, 19 Sep 2020 14:44:02 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Sat, 19 Sep 2020 14:35:26 GMT
+ETag: "2aa6-5afab873f080e-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 3138
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+...........Z.s.6.....U..$'....."{&.c....$....."!	c....d5..~..H.%..5...H....o..........n........../..7...=............d...........0...GzKc.q.n6.`.<.j.N?..Hk.....)..b....&...J$............L......w2.s.b2WrE...+6.4!R....d...4....
+o.6$KcjX<&'....p8........d....Y.-S..	3.,[.px2..........d4..['+f..;`.....w)...3.nS.#..:...`BT.%..Tif.?Mo...	=%..`..R.-.......L.rK. ./.l.....-v...
+F...l".{d.bN.{:R.%.z..g.aE..hL.....K....y.h}....7......su.sXY.{yd..ht.P2K.A$.Tc.........>..
+.t..vL..TL..'.<e......U...F..S.n...*......L.R.|..(O.R0\..t.7&.	j..921.......`^.
+..rLF...&.n..4F..N..}..fLhfd.68..r.........x.'9..;7........#..c....~.....~..h.;.u..	..isv...................)Dn.7.?.....:e?.!.....6.".....5F.K|^.Oa...H..........l$..m.........p./.....xu.v.
+[...y..l/....l..c.jF.c....:-IsZ;...N..#....b......:...F.V...<e.>v^..)U....[f.
+.#.dT..
+5...x<...X.
+B.
+.......
+.5z...%..=p.no&...
+.uX.:.|o..+y....i.{...._... ...@VK~'?<*.UE.SP+}.'......M...b....n...N...\HH....	....._...p..u.9jX..,..:..LX...r......-Zs.........1..	..Y.u..-GR	...u.NU.=KJ.v-.(.V.^^.\....C.~..r.%.k.$.
+.#....C.V...........a#.S..s)J..{V}Z.@..Ql.-X.h...B...0.=.@....d.#T@'.;..p..shP
+Kdmy.o.n.!....Z..
+-CP..8...j7k...K.kp..E....^..&.o..._...N?........X...@......=.......IH/.=Gh......K.....#	]..G|.{8...Z.d...^.g./\W^..^...p......*:...y..D.2.h..{...`...-_..t.5..8..}.n.......f......... -*.@....].$rnW....8"-..l..
+......0.V.I..A.L...(.......P.....n..N..t6K.-.JO.	. 
+w.)........&n.`N.2#....c........%+F...5%.....6W.+..S. n.a2D...Q.T.).6 ..c....!{\(.
+.1.	.{.....!#.M....s....... .<..C..'!<|Jfl....&.d.....%C.UY..u&aZ..v......B..VT.G).".3.9.i.C...h.}"7p.....`..i.3}.F..@..~..e..|61. K..r.8C..l)..1!C .$b.....!@..;i......c...uK..GMh.}<,RX$4-.....U.i..... .^..3....0..m.......s...%......s..S.d.........H...N..#..._..p....|...4@1.u.....u(..f.C..R.....$v@......L...2.0K.K.4...V.^BH..0..>...WW....d..w...|``...6...D.B6
+.9W+f@....N.n...fbnqm.4..ka2...ELk....H...&......y.p...:^...eqf...@T....<".G.z.t.\.....1V{P3w...:...'E..!7z.%..b?dfw.G.@]./...........T*..}.^.X..s.T.b!>x.@..W.>.m...m.5.BM..E..............HH..,#..y.. [=..R.....if...3.K....K....Hd8V.^G@.F.x.E\ #-.D..
+.>..Z.4S..zh...\;.(.E..n.W...U...qw...yI.3.>.M..( E1k0+E+Z.^ .\y.&.3h..Ey.....6.A0M...-y./2.eCi4].K.0........bn.U..U".?.9..Rq`lk...Pz..fQ&......)3....... ..*..B@.#....]`6....k...6YJ]...\1.2;y.
+.[..@..U.......z....
+..J...tq]..W%M..<...B..aA....?.t...1.
+q.5."...+.%.X .r....EOX.G...~a.....	.kd..x.P......K:..h..u.)z-I6y.......w.1..q....x.-.....J...........|...1.....FH...u.b	 .L.<..I...H..u_Q.......u[.Yz...0
+.../v..._...Ln.8/....AK%Fd\G.......`..OK.Kq.Q...p..7...D......P..o.9..r..\s...K..R_.....m..^y.@>.*.(........6.M?..c	....Xa.^...d.X...LA.m..f..V.PSLBxw5.E.v..	...G.W...=..ho....-..w....5ux....d......0v.../..{.t
+C.".f.Gwn.B..)..Ol.....E.....s>A...4.!)4..K.O.?xQ...%%j..w....A(.....L.....J...9..Z....wVtk..c............s... \n...C5.j....0.....".e.32.....A.......1.I*..X9..oN-(.....9.......L....)..R%.<...3.
+.3...`K.G.3..a..D..;..l{....>....
+........I.n...*....[ ......1.....>?5..c.b...........O`It..........2
+...s.....#..... T....a....^
+..E>.U..)....5...2c.DX..9..t.......[.C.;l...wK..7'......h......j1R.9Q.c...o^{.e...W....@..
+. ..*..GET /icons/ubuntu-logo.png HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Authorization: Basic a2h1c2hlaTpraHVzaGVp
+Connection: keep-alive
+Referer: http://localhost/
+
+HTTP/1.1 200 OK
+Date: Sat, 19 Sep 2020 14:44:03 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Last-Modified: Wed, 12 Aug 2020 19:46:17 GMT
+ETag: "d0a-5acb370e91440"
+Accept-Ranges: bytes
+Content-Length: 3338
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+
+.PNG
+.
+...
+IHDR...w...c......~......IDATx..].t.H..1.Z................<.....03...t.O.#.VG..,.{.;`..]n...+..r...VV7.r...........l..b.]6.m.69.N......cj.E.+;.R?.....+...../.e.$Yb..S.....'....Y.8._......".....\}.P.....+........
+...2.I...w...5"q3..._	..(..C.g..Bg.....?#q.d.......6i......H..hhl_t.M.N....I$.$.W.......H.......5...q..:{.[......]s(... ..uun<..u#q..8q..l.Zz...%..RX=.....d..Z
+.Y.}4[+.7.......E.oG.Mu......nCc3..Y.....4u.h).).6~..y.....=.i..H\7a......fk..t....].V;..#q.p.!.1.Y<H.bG.KU..K.o....mS.v.l.>...y..^..*.:..N..y}..)..U.]...m........v..+S.M.P..O....t.Q...W....{{(~.F...9++9f.?.^\Q.6
+.,[t.......XOcG.M...rC..7I.<.
+..............$........./:.N..].S9.lg.l.tQ.9...8_.gk\.......+Pv......J.%...<qeb..m.%..\2...m....j..4..
+...6.........`........g.#.`Jo...U?~9U?z	f...F.]1..:...i-.k.I[ROm9
+F.W.8.o..
+u...k..x...;.........#...[.e...]....K..E...9...	....Rf..kxn|...J......6......0%.....&e.5B'....2.U..C.F....#T.s7P_{.y.+..3...H.	..&g.Km.N...........v.:y+..*!/.<{.\hPSo...BW......_...F........>.7...%.....kpu...........e....../...1?~.L.V\c....N..u..p{J...#P.l.....1Anj..!9/....J2..>{......2.%*..0.M["....g.......y...S.u.W..[.....>......s=..\.Wf...^.1I..s....3.G..r_.s.J...o=@..]..h.._27 ...=My%....z....s.....g..D}....L......Qd2%...iYWor...=OI..........3*...p..c#,X|.nT|.N.?a3........z...G.Z2 ...u..6..._..yqQ.......Hs....Wnz. Fk...P..o8A..._..O.E.Hb.e.r^\...}xLu^..........K.pK.....y.............1.....eW.,...H...G..y.h .Z.S'...3Z. ...P.........61....X..7.C.!.x......O....;q.sC..G.l...yqQ8%..-#>"7.M.1#.b]u..
+..%"C.)..
+i..o.T.|,....].....Z....
+.`....($Q!.....N......SY...`..W..Yc....%.m).7.C8F.g'H..^........yaSgzt..,...QH....h.d...........G0f..W..N..,.<*.+'.+..+.K..n8...5@~...9U!X......=%....*q....z...)#.....T=x.U.z..T..!....2<...pv.]	..].c.@]Ep.)+0..A@~2....D"]_K..=..k..	j.......+[..x....?i.Ya	_.PV. a[..`n.N.v.fg..e...!..gi.v..]s....EX...h...k.
+...-*... ..a.'......$..ps....p..M.P.....N.u..l..._...yY...1..u.......~..;....	..@2`..E....4.....u.H?...\d.|.|............z...y.	);.?.........g.>..%..)ZW...M.......z....6........T...(9.......{.(.j..*.+..%.G...Y....)..+....|9........f.....j...,...`.g.4m...{..&.+;a..hq.-#6..V[u......]...B[..l....e.....2.....tJ4...'...e(...%......W.12..!]....{...&.{...m!{.B$..M...{..,l..2...F.&.....Y..Uc......3.&. ....g.....W<.{D....#i.M.Vpe<v.......<.|:j$....WZ...Y.8_.l.).es.........8.....7b..6Bc..:;...~.O.2.z)../.O...%9..a..m.k..m..m..m..m..:[......u...T...v..*..4_......:.:t...W...p5....B....p.w.......g.t...!....j:......P...p...X.C(....Z.p....:...W.K.a.....b.[.p./....	..
+..8..
+......G}.XH.....h....w-....x....Vl.S.x..2#.>...r.B.<..
+<.`/.+...afV ..;...x..>..X|....Kbv......N.3.....h......|."........8..g.....
+..)X.+..7..b..q..S!9....wD.O.
+....p.{._
+......	UH
+w..~k..ux..pE.@..{.....u
+w.....sY...@M...u.^P..\O...K....zA}$..88..b.......an...._.t...@m1...;.
+.[y.N.w...]+f?...l..."....J.w
+.Y....#n._5l_.......X	...?.....B.	.n..C.....	c"..b6..p...s..pS...nz....px.UDO|........;R. ...Rob..+..o..I..p....&..(f.[	....P..-&f...7}.E.X...R.t1....-....l.......P=....EK..3.=..,.t.G]...p..mC.5..a...k.F.c.....>.aS<....r#.
+.&.YX..h.b...(.n........
+...y...Q.}m.....e4Cn.GS..uD....@..C/.Fz.Fy..1w.~).X.1..bY....X./.Tu.6...w......."`e..&m-.d...z..	.AJ..I........p.*6..<7..}...Z<.Hu..z\.Ql.\.D[.Eh....S...c1..$n..&..r.[.2*&.a.....a..a..#...;_...2....K.dW....aX........x....(.N..S8..X..........UV.j.b0.....IEND.B`.GET /favicon.ico HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Authorization: Basic a2h1c2hlaTpraHVzaGVp
+Connection: keep-alive
+
+HTTP/1.1 404 Not Found
+Date: Sat, 19 Sep 2020 14:44:03 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Content-Length: 271
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at localhost Port 80</address>
+</body></html>
